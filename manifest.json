@@ -3,7 +3,7 @@
   "name": "NOVA STRIKE",
   "short_name": "NOVA STRIKE",
   "description": "لعبة نوفا سترايك - أكشن سبيس شوتر فضائي",
-  "start_url": "/",
+  "start_url": "/nova-strike/",
   "scope": "/",
   "display": "standalone",
   "orientation": "any",
