@@ -4,7 +4,7 @@
   "short_name": "NOVA STRIKE",
   "description": "لعبة نوفا سترايك - أكشن سبيس شوتر فضائي",
   "start_url": "/nova-strike/",
-  "scope": "/",
+  "scope": "/nova-strike/",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#0A0A1F",
